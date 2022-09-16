@@ -1,0 +1,6 @@
+POST  http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.flipkart.com/poco-x4-pro-5g-laser-black-128-gb/p/itm30feac36897d8?pid=MOBGCGZZHMGXSYHA&lid=LSTMOBGCGZZHMGXSYHAUPT1FJ&marketplace=FLIPKART&store=tyy%2F4io&srno=b_1_1&otracker=clp_metro_expandable_2_3.metroExpandable.METRO_EXPANDABLE_Shop%2BNow_mobile-phones-store_O1WYX08RHODP_wp2&fm=neo%2Fmerchandising&iid=573c1660-821b-49a3-ba5c-72679f917f29.MOBGCGZZHMGXSYHA.SEARCH&ppt=clp&ppn=mobile-phones-store&ssid=skad0o41eo0000001663346463752"
+}
